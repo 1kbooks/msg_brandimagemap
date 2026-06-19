@@ -1,0 +1,47 @@
+﻿iso3,country,count,appearances,score,positive,negative,neutral,positive_share,negative_share,top_themes,theme_umami_taste,theme_culinary_utility,theme_affordability_access,theme_safety_science,theme_health_risk,theme_artificial_processed,theme_cultural_stigma,theme_corporate_reputation,theme_neutral_factual,theme_other
+IDN,Indonesia,422,427,1.026,343,4,75,0.8128,0.0095,corporate_reputation|culinary_utility|umami_taste,77,96,3,58,6,9,13,353,8,0
+JPN,Japan,210,213,0.7,123,6,81,0.5857,0.0286,corporate_reputation|culinary_utility|umami_taste,62,128,1,7,5,14,10,132,7,0
+USA,United States,202,222,0.505,98,14,90,0.4851,0.0693,corporate_reputation|culinary_utility|umami_taste,41,41,1,13,12,17,23,144,13,0
+VNM,Vietnam,128,129,1.398,118,3,7,0.9219,0.0234,corporate_reputation|culinary_utility|umami_taste,11,30,0,2,2,2,0,125,3,0
+PHL,Philippines,48,49,1.229,39,0,9,0.8125,0.0,corporate_reputation|culinary_utility|umami_taste,6,14,1,2,0,1,1,38,1,0
+CHN,China,37,39,0.703,23,0,14,0.6216,0.0,corporate_reputation|umami_taste|culinary_utility,10,8,0,3,0,0,0,31,2,0
+NGA,Nigeria,33,34,0.182,14,12,7,0.4242,0.3636,corporate_reputation|umami_taste|artificial_processed,14,3,1,12,12,12,1,18,4,0
+GBR,United Kingdom,33,36,0.606,18,0,15,0.5455,0.0,corporate_reputation|culinary_utility|umami_taste,6,6,0,4,2,5,2,23,1,0
+IND,India,31,32,-0.548,4,16,11,0.129,0.5161,artificial_processed|health_risk|umami_taste,12,3,0,3,14,18,10,7,0,0
+PER,Peru,30,31,1.267,24,1,5,0.8,0.0333,corporate_reputation|culinary_utility|umami_taste,9,10,0,0,1,1,0,26,0,0
+MYS,Malaysia,26,26,1.192,22,0,4,0.8462,0.0,corporate_reputation|culinary_utility|umami_taste,4,7,0,0,1,0,0,26,0,0
+MEX,Mexico,14,16,-1.071,0,9,5,0.0,0.6429,artificial_processed|health_risk|umami_taste,2,1,0,1,12,13,1,0,1,0
+PAK,Pakistan,14,14,0.571,9,2,3,0.6429,0.1429,corporate_reputation|safety_science|artificial_processed,3,2,0,7,0,4,1,9,0,0
+ESP,Spain,12,13,-0.333,2,5,5,0.1667,0.4167,artificial_processed|health_risk|umami_taste,5,2,0,2,6,6,0,3,0,0
+THA,Thailand,12,12,1.583,12,0,0,1.0,0.0,corporate_reputation|culinary_utility|safety_science,1,1,0,1,0,0,0,12,0,0
+MUS,Mauritius,10,10,0.7,7,0,3,0.7,0.0,culinary_utility|umami_taste|corporate_reputation,6,9,0,0,0,1,0,4,0,0
+BRA,Brazil,9,9,0.333,5,3,1,0.5556,0.3333,corporate_reputation|umami_taste|artificial_processed,2,1,0,0,0,1,0,9,1,0
+AUS,Australia,7,7,0.429,3,0,4,0.4286,0.0,corporate_reputation|cultural_stigma|umami_taste,2,0,0,0,0,0,2,7,1,0
+DEU,Germany,7,7,0.429,3,0,4,0.4286,0.0,corporate_reputation|umami_taste,1,0,0,0,0,0,0,7,0,0
+BOL,Bolivia,6,7,-0.667,0,3,3,0.0,0.5,corporate_reputation|culinary_utility|umami_taste,2,2,0,0,1,1,0,3,0,0
+HKG,Hong Kong,6,6,0.333,2,0,4,0.3333,0.0,corporate_reputation|umami_taste|artificial_processed,2,1,0,1,0,1,1,5,1,0
+SGP,Singapore,5,5,0.6,3,0,2,0.6,0.0,corporate_reputation|culinary_utility,0,1,0,0,0,0,0,5,0,0
+TWN,Taiwan,5,5,0.2,1,0,4,0.2,0.0,corporate_reputation|neutral_factual,0,0,0,0,0,0,0,4,2,0
+ISR,Israel,3,3,-0.333,1,2,0,0.3333,0.6667,artificial_processed|health_risk|corporate_reputation,0,0,0,0,2,2,1,1,0,0
+LTU,Lithuania,3,6,0.0,0,0,3,0.0,0.0,corporate_reputation|culinary_utility,0,1,0,0,0,0,0,3,0,0
+ARG,Argentina,2,2,-0.5,0,1,1,0.0,0.5,artificial_processed|corporate_reputation|health_risk,0,0,0,0,1,1,0,1,0,0
+AZE,Azerbaijan,2,2,1.0,1,0,1,0.5,0.0,corporate_reputation|neutral_factual,0,0,0,0,0,0,0,2,1,0
+BGD,Bangladesh,2,2,0.5,1,0,1,0.5,0.0,corporate_reputation|neutral_factual,0,0,0,0,0,0,0,1,1,0
+ITA,Italy,2,2,0.0,0,0,2,0.0,0.0,corporate_reputation,0,0,0,0,0,0,0,2,0,0
+NLD,Netherlands,2,2,-1.0,0,1,1,0.0,0.5,artificial_processed|health_risk|culinary_utility,1,1,0,0,2,2,0,0,0,0
+NER,Niger,2,2,-0.5,1,1,0,0.5,0.5,artificial_processed|corporate_reputation|health_risk,0,0,0,0,1,1,0,1,1,0
+POL,Poland,2,2,0.0,1,1,0,0.5,0.5,artificial_processed|culinary_utility|health_risk,1,1,0,1,1,2,0,0,0,0
+CHE,Switzerland,2,2,0.5,1,1,0,0.5,0.5,artificial_processed|corporate_reputation|health_risk,0,0,0,0,1,1,0,1,1,0
+BEL,Belgium,1,1,0.0,0,0,1,0.0,0.0,culinary_utility|umami_taste,1,1,0,0,0,0,0,0,0,0
+BMU,Bermuda,1,1,-1.0,0,1,0,0.0,1.0,artificial_processed|culinary_utility|health_risk,0,1,0,0,1,1,0,0,0,0
+KHM,Cambodia,1,1,0.0,0,0,1,0.0,0.0,corporate_reputation|neutral_factual,0,0,0,0,0,0,0,1,1,0
+CAN,Canada,1,1,0.0,0,0,1,0.0,0.0,culinary_utility|umami_taste,1,1,0,0,0,0,0,0,0,0
+COL,Colombia,1,1,2.0,1,0,0,1.0,0.0,corporate_reputation|umami_taste,1,0,0,0,0,0,0,1,0,0
+CZE,Czech Republic,1,1,0.0,0,0,1,0.0,0.0,corporate_reputation|neutral_factual,0,0,0,0,0,0,0,1,1,0
+DOM,Dominican Republic,1,1,-1.0,0,1,0,0.0,1.0,artificial_processed|health_risk,0,0,0,0,1,1,0,0,0,0
+FIN,Finland,1,1,1.0,1,0,0,1.0,0.0,corporate_reputation|culinary_utility,0,1,0,0,0,0,0,1,0,0
+FRA,France,1,1,1.0,1,0,0,1.0,0.0,corporate_reputation,0,0,0,0,0,0,0,1,0,0
+RUS,Russia,1,1,0.0,0,0,1,0.0,0.0,safety_science,0,0,0,1,0,0,0,0,0,0
+STP,Sao Tome and Principe,1,1,0.0,0,0,1,0.0,0.0,corporate_reputation,0,0,0,0,0,0,0,1,0,0
+KOR,South Korea,1,2,0.0,0,0,1,0.0,0.0,corporate_reputation|neutral_factual,0,0,0,0,0,0,0,1,1,0
+TZA,Tanzania,1,1,-2.0,0,1,0,0.0,1.0,artificial_processed|health_risk,0,0,0,0,1,1,0,0,0,0

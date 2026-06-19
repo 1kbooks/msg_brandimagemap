@@ -1,0 +1,3 @@
+﻿iso3,country,count,appearances,score,positive,negative,neutral,positive_share,negative_share,top_themes,theme_umami_taste,theme_culinary_utility,theme_affordability_access,theme_safety_science,theme_health_risk,theme_artificial_processed,theme_cultural_stigma,theme_corporate_reputation,theme_neutral_factual,theme_other
+ESP,Spain,1,1,-1.0,0,1,0,0.0,1.0,artificial_processed|health_risk,0,0,0,0,1,1,0,0,0,0
+USA,United States,1,11,0.0,0,0,1,0.0,0.0,culinary_utility|umami_taste,1,1,0,0,0,0,0,0,0,0
